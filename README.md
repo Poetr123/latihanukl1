@@ -24,5 +24,6 @@ Dengan begitu, program jadi lebih aman dan ramah pengguna.
 ## 📷 Screenshot Hasil Program
 Berikut tampilan hasil saat program dijalankan:
 
-![Screenshot Output Program](images/output1.png)
-![Screenshot Output Program.](images/output2.png)
+![Output 1](images/output1.png?version=1)
+![Output 2](images/output2.png?version=2)
+
