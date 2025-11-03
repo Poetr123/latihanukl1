@@ -25,3 +25,4 @@ Dengan begitu, program jadi lebih aman dan ramah pengguna.
 Berikut tampilan hasil saat program dijalankan:
 
 ![Screenshot Output Program](images/output1.png)
+![Screenshot Output Program](images/output2.png)
