@@ -19,7 +19,7 @@ Dengan begitu, program jadi lebih aman dan ramah pengguna.
    - Jika tidak → program menampilkan bahwa angka itu **ganjil**.  
 3. Jika pengguna memasukkan input yang bukan angka, program akan menampilkan **pesan kesalahan** tanpa menghentikan eksekusi secara tiba-tiba.
 
----
+---.
 
 ## 📷 Screenshot Hasil Program
 Berikut tampilan hasil saat program dijalankan:
